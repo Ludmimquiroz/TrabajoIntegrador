@@ -2,4 +2,53 @@
 
 .navbar-brand img{max-width: 100px;}
 
-.carousel-item {opacity: .8;}
+.carousel-item {opacity: .9;}
+
+.contenedor{
+text-align: center;
+font-size: small;
+}
+
+#cards{
+    width: 60%;
+    margin: auto;
+}
+
+#contenedor-2 {width: 100%; }
+
+
+.col-lg-6{
+    background-color:rgb(71, 68, 68);
+    color: white;
+    padding: 10px !important;
+}
+
+#boton-javascript{
+    background-color: yellow;
+    color: black;
+}
+
+#boton-react{
+    background-color: aquamarine;
+    color: white;
+}
+
+#boton-negocios{
+    background-color: grey;
+    color: white;
+}
+
+#boton-startups{
+    background-color: red;
+    color: white;
+}
+#name{
+    width: 50% !important;
+    margin: auto;
+}
+
+#botonenviar{
+    background-color: #25a342;
+    color: white;
+
+}
