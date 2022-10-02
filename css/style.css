@@ -26,22 +26,21 @@ font-size: small;
 #boton-javascript{
     background-color: yellow;
     color: black;
+    border: none;
 }
 
 #boton-react{
     background-color: aquamarine;
     color: white;
-}
-
-#boton-negocios{
-    background-color: grey;
-    color: white;
+    border: none;
 }
 
 #boton-startups{
     background-color: red;
     color: white;
+    border:none;
 }
+
 #name{
     width: 50% !important;
     margin: auto;
@@ -50,5 +49,6 @@ font-size: small;
 #botonenviar{
     background-color: #25a342;
     color: white;
-
+    border: none;
+    text-decoration: none;
 }
