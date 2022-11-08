@@ -52,3 +52,42 @@ font-size: small;
     border: none;
     text-decoration: none;
 }
+
+#Tarjetas-venta{
+    width: 60%;
+    margin: auto;
+    
+  }
+
+
+  #valor-ticket{
+      width: 50%;
+      text-align: center;
+      margin: auto;
+  
+  }
+  
+  .card{
+      text-align: center;
+  }
+  
+  #Borrar{
+      background-color:rgb(7, 220, 7);
+  }
+  
+  #resumen{
+      background-color: rgb(7, 220, 7);
+  
+  }
+  
+  #valor3{
+      color: black;
+     font-size:xx-large;
+     font-weight: 700;
+     background-color: rgba(125, 204, 228, 0.964);
+  
+  }
+  
+  .alert{
+      background-color:rgba(125, 204, 228, 0.964) !important ;
+  }
